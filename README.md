@@ -4,7 +4,7 @@ Witold Formański
 Software Developer | Computer Science student
 ----------------------------------------
 
-My primary languages are C++ and C#. I enjoy performance optimization, well-configured CI/CD pipelines and clear project architecture.
+My primary languages are C++ and C#. I enjoy performance optimization, well-configured CI/CD pipelines, and clear project architecture.
 
 ## 📄 Basic facts:
 - Computer Science student at the Faculty of Mathematics, Informatics, and Mechanics, University of Warsaw
