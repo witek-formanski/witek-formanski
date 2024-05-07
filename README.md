@@ -24,3 +24,9 @@ My primary languages are C++ and C#. I enjoy performance optimization, well-conf
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=witek-formanski&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
+
+
+### ⌛ LeetCode stats:
+<p align="center">
+  <img width="460" height="300" src="https://leetcode.card.workers.dev/witek-formanski?theme=nord&font=baloo&extension=null">
+</p>
